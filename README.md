@@ -11,4 +11,7 @@ Day4 File - Day 4 lab excercise,
 Day5 File - Day 5 lab excercise,
 Day6 File - Day 6 lab excercise,
 Streams File - Sample Programs on Stream,
+Sql - Sql Lab Excercise,
+Html - Html Excercise,
+Css - Css Excercise
 
