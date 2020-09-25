@@ -1,3 +1,5 @@
+//4. Rewrite the earlier program so that, now the class DemoThread1 instead of implementing from Runnable interface, will now extend from Thread class.
+
 package day6;
 
 public class DemoThread1 extends Thread {
