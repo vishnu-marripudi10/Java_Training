@@ -1,12 +1,7 @@
-/**
- * 
- */
+
 package com.demo;
 
-/**
- * @author mvven
- *
- */
+
 public class Employee {
 	private int empNo;
 	private String empName;
