@@ -13,5 +13,11 @@ Day6 File - Day 6 lab excercise,
 Streams File - Sample Programs on Stream,
 Sql - Sql Lab Excercise,
 Html - Html Excercise,
-Css - Css Excercise
+Css - Css Excercise,
+Java Script Excercise - Form Validation,
+Servlet Excercise - Sample Programs using Jsp and servlets,
+Spring Demo,
+SpringMvc,
+SpringMvcLogin,
+SpringHibernateDemo - spring hibernate validatordemo
 
