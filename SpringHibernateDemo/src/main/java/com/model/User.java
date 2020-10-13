@@ -1,14 +1,8 @@
 package com.model;
 
- 
-
 import javax.validation.constraints.Size;
 
- 
-
 import org.hibernate.validator.constraints.NotEmpty;
-
- 
 
 public class User {
     
@@ -45,7 +39,5 @@ public class User {
     public void setPassword(String password) {
         this.password = password;
     }
-
- 
 
 }
