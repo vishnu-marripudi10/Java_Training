@@ -19,5 +19,8 @@ Servlet Excercise - Sample Programs using Jsp and servlets,
 Spring Demo,
 SpringMvc,
 SpringMvcLogin,
-SpringHibernateDemo - spring hibernate validatordemo
+SpringHibernateDemo - spring hibernate validatordemo,
+SpringHibernateAnnotation,
+HibernateDemo,
+HibernateDemo2.
 
